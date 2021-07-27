@@ -1,0 +1,12 @@
+name: mimez
+description: Lightweight mime type detection from binary data
+
+version: '1.0.0'
+
+environment:
+  sdk: '>=2.13.0 <3.0.0'
+
+dev_dependencies:
+  test: ^1.17.10
+
+  lint: ^1.5.3
